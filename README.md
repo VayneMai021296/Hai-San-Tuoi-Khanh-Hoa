@@ -48,7 +48,7 @@
 
   <tr><td>Cá Trác Vàng</td><td><img src="Images/Ca-Trac-Vang.jpg"></td><td>140.000đ</td></tr>
 
-  <tr><td>Chả Nem</td><td><img src="Images/Cha-Nem.jpg"></td><td>230.000đ</td></tr>
+  <tr><td>Chả Nem</td><td><img src="Images/Cha-Nem.jpg"></td><td>170.000đ</td></tr>
 
   <tr><td>Mực Cơm</td><td><img src="Images/Muc-Com.jpg"></td><td>340.000đ</td></tr>
 
