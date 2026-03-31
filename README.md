@@ -10,26 +10,63 @@
 
 <h2 style="text-align:center;font-weight:bold; font-size:40px">Menu cá ngày 31/3/2026</h2>
 
-|<span style="font-size:20px; font-weight:bold;">Tên cá</span>| <span style="font-size:18px; font-weight:bold;">Hình ảnh</span> |<span style="font-size:18px; font-weight:bold;">Giá Tiền</span>|
-|--------|----------|----------|
-| <span style="font-size:18px; font-weight:bold;">Cá Bạc Má</span> | <img src="Images/Ca-Bac-Ma.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">250.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Chỉ Vàng</span> | <img src="Images/Ca-Chi-vang.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">120.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Chim Biển Nhỏ</span> | <img src="Images/Ca-Chim-Bien-Nho.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">90.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Chim Trắng</span> | <img src="Images/Ca-Chim-Trang-II.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">180.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Cờ</span> | <img src="Images/Ca-Co.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Cơm Than</span> | <img src="Images/Ca-Com-Than.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Dìa</span> | <img src="Images/Ca-Dia.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Dưa Gang</span> | <img src="Images/Ca-Du-Gang.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Hố</span> | <img src="Images/Ca-Ho.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Măng</span> | <img src="Images/Ca-Mang.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Ngát</span> | <img src="Images/Ca-Ngat.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Nục</span> | <img src="Images/Ca-Nuc.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Phèn</span> | <img src="Images/Ca-Phen.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Thu</span> | <img src="Images/Ca-thu.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Cá Trác Vàng</span> | <img src="Images/Ca-Trac-Vang.jpg.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Mực Cơm</span> | <img src="Images/Muc-Com.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Mực Lá</span> | <img src="Images/Muc-La.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
-| <span style="font-size:18px; font-weight:bold;">Mực Ống</span> | <img src="Images/Muc-Ong.jpg" width="50%"> | <span style="font-size:18px; font-weight:bold;">220.000đ</span> |
+<style>
+  .menu-table {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .menu-table th {
+    font-size: 20px;
+  }
+  .menu-table img {
+    width: 50%;
+  }
+</style>
+
+<table class="menu-table">
+  <tr>
+    <th>Tên cá</th>
+    <th>Hình ảnh</th>
+    <th>Giá tiền</th>
+  </tr>
+
+  <tr><td>Cá Bạc Má</td><td><img src="Images/Ca-Bac-Ma.jpg"></td><td>250.000đ</td></tr>
+
+  <tr><td>Cá Chỉ Vàng</td><td><img src="Images/Ca-Chi-vang.jpg"></td><td>120.000đ</td></tr>
+
+  <tr><td>Cá Chim Biển Nhỏ</td><td><img src="Images/Ca-Chim-Bien-Nho.jpg"></td><td>90.000đ</td></tr>
+
+  <tr><td>Cá Chim Trắng</td><td><img src="Images/Ca-Chim-Trang-II.jpg"></td><td>180.000đ</td></tr>
+
+  <tr><td>Cá Cờ</td><td><img src="Images/Ca-Co.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Cơm Than</td><td><img src="Images/Ca-Com-Than.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Dìa</td><td><img src="Images/Ca-Dia.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Dưa Gang</td><td><img src="Images/Ca-Du-Gang.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Hố</td><td><img src="Images/Ca-Ho.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Măng</td><td><img src="Images/Ca-Mang.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Ngát</td><td><img src="Images/Ca-Ngat.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Nục</td><td><img src="Images/Ca-Nuc.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Phèn</td><td><img src="Images/Ca-Phen.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Thu</td><td><img src="Images/Ca-thu.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Cá Trác Vàng</td><td><img src="Images/Ca-Trac-Vang.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Mực Cơm</td><td><img src="Images/Muc-Com.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Mực Lá</td><td><img src="Images/Muc-La.jpg"></td><td>220.000đ</td></tr>
+
+  <tr><td>Mực Ống</td><td><img src="Images/Muc-Ong.jpg"></td><td>220.000đ</td></tr>
+
+</table>
 
 </div>
 
