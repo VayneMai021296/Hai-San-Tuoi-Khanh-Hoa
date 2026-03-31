@@ -10,18 +10,6 @@
 
 <h2 style="text-align:center;font-weight:bold; font-size:40px">Menu cá ngày 31/3/2026</h2>
 
-<style>
-  .menu-table {
-    font-size: 18px;
-    font-weight: bold;
-  }
-  .menu-table th {
-    font-size: 20px;
-  }
-  .menu-table img {
-    width: 50%;
-  }
-</style>
 
 <table class="menu-table">
   <tr>
