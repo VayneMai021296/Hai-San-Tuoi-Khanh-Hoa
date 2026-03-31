@@ -27,7 +27,7 @@
   <tr>
     <th>Tên cá</th>
     <th>Hình ảnh</th>
-    <th>Giá tiền (đ/kg)</th>
+    <th>Giá tiền(đ/kg)</th>
   </tr>
 
   <tr><td>Cá Bạc Má</td><td><img src="Images/Ca-Bac-Ma.jpg"></td><td>130.000đ</td></tr>
