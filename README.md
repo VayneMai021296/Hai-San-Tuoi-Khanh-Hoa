@@ -62,7 +62,7 @@
 
 <tr><td><strong style="font-size:1.15em;">Cá Rốc</strong></td><td><img src="Images/Ca-Roc.png"></td><td><strong style="font-size:1.15em;">Đang Cập Nhật</strong></td></tr>
 
-<tr><td><strong style="font-size:1.15em;">Cá Sơn La</strong></td><td><img src="Images/Ca-SonLa.png"></td><td><strong style="font-size:1.15em;">Đang Cập Nhật</strong></td></tr>
+<tr><td><strong style="font-size:1.15em;">Cá Sơn La</strong></td><td><img src="Images/Ca-Son-La.png"></td><td><strong style="font-size:1.15em;">Đang Cập Nhật</strong></td></tr>
 
 </table>
 </div>
