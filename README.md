@@ -47,12 +47,15 @@
 
 <tr><td><strong style="font-size:1.15em;">Cá Trác Vàng</strong></td><td><img src="Images/Ca-Trac-Vang.jpg"></td><td><strong style="font-size:1.15em;">140.000đ</strong></td></tr>
 
+<tr><td><strong style="font-size:1.15em;">Cá Liệt Lê (Loại Lớn)</strong></td><td><img src="Images/Ca-Liet-Le(LoaiLon).png"></td><td><strong style="font-size:1.15em;">140.000đ</strong></td></tr>
+
+<tr><td><strong style="font-size:1.15em;">Cá Liệt Lê (Loại Nhỏ)</strong></td><td><img src="Images/Ca-Liet-Le(LoaiNho).png"></td><td><strong style="font-size:1.15em;">140.000đ</strong></td></tr>
+
 <tr><td><strong style="font-size:1.15em;">Chả Nem</strong></td><td><img src="Images/Cha-Nem.jpg"></td><td><strong style="font-size:1.15em;">170.000đ</strong></td></tr>
 
 <tr><td><strong style="font-size:1.15em;">Mực Cơm</strong></td><td><img src="Images/Muc-Com.jpg"></td><td><strong style="font-size:1.15em;">340.000đ</strong></td></tr>
 
 <tr><td><strong style="font-size:1.15em;">Mực Lá</strong></td><td><img src="Images/Muc-La.jpg"></td><td><strong style="font-size:1.15em;">380.000đ</strong></td></tr>
-
 
 <tr><td><strong style="font-size:1.15em;">Cá Bè</strong></td><td><img src="Images/Ca-Be.png"></td><td><strong style="font-size:1.15em;">Đang Cập Nhật</strong></td></tr>
 
